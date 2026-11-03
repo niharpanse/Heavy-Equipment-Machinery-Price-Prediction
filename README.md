@@ -59,8 +59,8 @@ heavy-equipment-price-prediction/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd heavy-equipment-price-prediction
+git clone https://github.com/niharpanse/Heavy-Equipment-Machinery-Price-Prediction
+cd Heavy-Equipment-Machinery-Price-Prediction
 ```
 
 Install the required dependencies:
